@@ -1,0 +1,5 @@
+MSA using mafft:
+mafft AlphaBeta.fasta > AlphaBeta_MSA.fasta
+
+RAxML tree:
+raxmlHPC -f a -m GTRGAMMA -p 12345 -x 12345 -# 100 -s AlphaBeta_MSA.fasta -n AlphaBetaTree
