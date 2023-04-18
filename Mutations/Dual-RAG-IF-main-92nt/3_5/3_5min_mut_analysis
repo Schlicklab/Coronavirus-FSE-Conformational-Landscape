@@ -1,0 +1,692 @@
+
+Optimizing Sequence 1
+[ 1-G 2-C 13-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 76-U 79-A ] after
+
+Optimizing Sequence 2
+[ 1-G 2-C 13-U 31-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 79-A ] after
+
+Optimizing Sequence 3
+[ 1-G 2-C 13-U 32-C 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 79-A ] after
+
+Optimizing Sequence 4
+[ 1-G 2-C 13-U 32-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-U 79-A ] after
+
+Optimizing Sequence 6
+[ 2-C 13-U 32-C 33-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-C 33-U 79-A ] after
+
+Optimizing Sequence 7
+[ 1-G 2-C 13-U 32-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 76-U ] after
+
+Optimizing Sequence 8
+[ 2-C 13-U 33-A 34-G 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 33-A 34-G 79-A ] after
+
+Optimizing Sequence 9
+[ 2-C 13-U 32-C 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-C 76-U 79-A ] after
+
+Optimizing Sequence 11
+[ 2-C 13-U 33-G 34-G 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 33-G 34-G 79-A ] after
+
+Optimizing Sequence 12
+[ 1-G 2-C 13-U 32-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-U 79-G ] after
+
+Optimizing Sequence 14
+[ 2-C 13-U 32-C 33-A 34-A 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-C 33-A 34-A 79-A ] after
+
+Optimizing Sequence 15
+[ 2-C 13-U 31-G 32-A 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-G 32-A 76-U 79-A ] after
+
+Optimizing Sequence 16
+[ 1-G 2-C 13-U 33-G 34-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 34-A 79-G ] after
+
+Optimizing Sequence 17
+[ 1-G 2-C 13-U 32-A 76-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 76-G 79-G ] after
+
+Optimizing Sequence 19
+[ 2-C 13-U 31-U 32-A 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-U 32-A 76-U 79-A ] after
+
+Optimizing Sequence 20
+[ 2-C 13-U 32-A 34-G 35-G 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-A 34-G 35-G 79-A ] after
+
+Optimizing Sequence 21
+[ 1-G 2-C 13-U 33-A 34-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-A 79-G ] after
+
+Optimizing Sequence 22
+[ 2-C 13-U 33-A 34-A 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 33-A 34-A 76-U 79-A ] after
+
+Optimizing Sequence 24
+[ 1-G 2-A 13-C 32-U 35-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-A 13-C 32-U 35-U 79-A ] after
+
+Optimizing Sequence 26
+[ 1-G 2-C 13-U 32-A 34-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 34-U 79-A ] after
+
+Optimizing Sequence 30
+[ 1-G 2-C 13-U 31-G 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 76-U 79-G ] after
+
+Optimizing Sequence 31
+[ 2-A 13-U 32-C 33-A 34-G 79-A ] before
+remove 0 point mutations
+[ 2-A 13-U 32-C 33-A 34-G 79-A ] after
+
+Optimizing Sequence 32
+[ 1-G 2-C 13-U 33-A 34-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-G 76-U ] after
+
+Optimizing Sequence 35
+[ 2-A 13-U 32-C 33-G 34-G 79-A ] before
+remove 0 point mutations
+[ 2-A 13-U 32-C 33-G 34-G 79-A ] after
+
+Optimizing Sequence 36
+[ 1-G 2-C 13-U 31-U 32-C 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-U 32-C 79-G ] after
+
+Optimizing Sequence 37
+[ 2-C 13-U 31-U 32-C 34-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-U 32-C 34-U 79-A ] after
+
+Optimizing Sequence 38
+[ 1-G 2-C 13-U 31-G 32-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 32-A 79-G ] after
+
+Optimizing Sequence 40
+[ 1-G 2-C 13-U 33-G 34-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 34-G 76-U ] after
+
+Optimizing Sequence 41
+[ 1-G 2-C 13-U 32-U 34-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-U 34-G 76-U ] after
+
+Optimizing Sequence 44
+[ 2-C 13-U 33-A 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 33-A 34-G 76-U 79-G ] after
+
+Optimizing Sequence 46
+[ 1-G 2-C 13-U 32-A 33-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 33-U 79-A ] after
+
+Optimizing Sequence 54
+[ 1-U 2-C 13-U 32-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 32-A 76-U 79-A ] after
+
+Optimizing Sequence 55
+[ 1-G 2-C 13-U 31-U 32-C 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-U 32-C 76-U ] after
+
+Optimizing Sequence 56
+[ 1-G 2-U 13-U 33-G 34-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 33-G 34-G 79-A ] after
+
+Optimizing Sequence 57
+[ 1-G 2-C 13-U 33-G 34-A 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 34-A 79-A ] after
+
+Optimizing Sequence 58
+[ 1-G 2-C 13-U 32-A 34-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 34-G 79-G ] after
+
+Optimizing Sequence 59
+[ 1-G 2-C 13-U 33-A 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 76-U 79-G ] after
+
+Optimizing Sequence 63
+[ 1-G 2-C 13-U 32-C 34-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 34-G 76-U ] after
+
+Optimizing Sequence 66
+[ 1-G 2-C 13-U 33-A 34-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-G 79-G ] after
+
+Optimizing Sequence 67
+[ 1-G 2-C 13-U 31-G 76-U 79-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 76-U 79-U ] after
+
+Optimizing Sequence 69
+[ 1-G 2-C 13-U 33-G 34-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 34-G 79-G ] after
+
+Optimizing Sequence 72
+[ 1-G 2-U 13-U 33-A 34-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 33-A 34-G 79-A ] after
+
+Optimizing Sequence 76
+[ 2-C 13-U 31-U 32-C 34-G 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-U 32-C 34-G 79-A ] after
+
+Optimizing Sequence 77
+[ 1-G 2-C 13-U 32-C 76-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 76-G 79-G ] after
+
+Optimizing Sequence 79
+[ 1-G 2-C 13-U 32-A 35-A 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 35-A 79-A ] after
+
+Optimizing Sequence 83
+[ 1-A 2-C 13-U 32-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 32-U 76-U 79-A ] after
+
+Optimizing Sequence 84
+[ 2-C 13-U 33-G 34-A 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 33-G 34-A 76-U 79-A ] after
+
+Optimizing Sequence 85
+[ 1-G 2-C 13-U 32-A 34-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 34-G 79-A ] after
+
+Optimizing Sequence 86
+[ 1-G 2-C 13-U 33-A 34-A 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-A 79-A ] after
+
+Optimizing Sequence 87
+[ 2-C 13-U 32-A 35-A 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-A 35-A 76-U 79-A ] after
+
+Optimizing Sequence 90
+[ 1-G 2-C 13-U 33-A 34-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-U 79-A ] after
+
+Optimizing Sequence 91
+[ 1-G 2-C 13-U 32-A 76-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 76-G 79-A ] after
+
+Optimizing Sequence 93
+[ 1-G 2-C 13-U 31-G 32-C 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 32-C 79-G ] after
+
+Optimizing Sequence 96
+[ 2-C 13-U 31-U 32-C 35-A 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-U 32-C 35-A 79-A ] after
+
+Optimizing Sequence 97
+[ 2-C 13-U 32-A 35-U 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-A 35-U 76-U 79-A ] after
+
+Optimizing Sequence 101
+[ 1-A 2-C 13-U 32-A 34-G 76-U 79-A ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 32-A 34-G 76-U 79-A ] after
+
+Optimizing Sequence 112
+[ 1-G 2-C 13-U 33-U 34-G 35-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-U 34-G 35-G 76-U ] after
+
+Optimizing Sequence 115
+[ 2-C 13-U 32-A 33-U 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 32-A 33-U 34-G 76-U 79-G ] after
+
+Optimizing Sequence 120
+[ 1-G 2-C 13-U 32-C 34-A 35-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 34-A 35-A 76-U ] after
+
+Optimizing Sequence 131
+[ 2-C 13-U 32-C 33-U 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 32-C 33-U 34-G 76-U 79-G ] after
+
+Optimizing Sequence 137
+[ 1-G 2-U 13-U 32-C 34-G 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 32-C 34-G 76-U 79-A ] after
+
+Optimizing Sequence 138
+[ 1-A 2-U 13-U 32-C 33-A 34-G 79-A ] before
+remove 0 point mutations
+[ 1-A 2-U 13-U 32-C 33-A 34-G 79-A ] after
+
+Optimizing Sequence 142
+[ 1-G 2-C 13-U 32-C 33-U 34-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 33-U 34-G 79-G ] after
+
+Optimizing Sequence 147
+[ 2-C 13-U 32-C 33-G 34-A 35-G 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-C 33-G 34-A 35-G 79-A ] after
+
+Optimizing Sequence 153
+[ 1-G 2-C 13-U 33-A 34-U 35-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-U 35-A 76-U ] after
+
+Optimizing Sequence 159
+[ 1-G 2-C 13-U 33-G 34-A 35-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 34-A 35-G 76-U ] after
+
+Optimizing Sequence 162
+[ 1-A 2-C 13-U 31-G 33-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-G 33-A 76-U 79-A ] after
+
+Optimizing Sequence 163
+[ 1-G 2-C 13-U 32-C 33-A 34-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 33-A 34-A 76-U ] after
+
+Optimizing Sequence 172
+[ 1-G 2-C 13-U 32-A 34-A 35-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 34-A 35-A 79-G ] after
+
+Optimizing Sequence 178
+[ 1-G 2-U 13-U 31-G 32-C 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-G 32-C 76-U 79-A ] after
+
+Optimizing Sequence 180
+[ 1-U 2-C 13-U 31-G 32-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 31-G 32-U 76-U 79-A ] after
+
+Optimizing Sequence 186
+[ 1-G 2-U 13-U 31-G 35-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-G 35-A 76-U 79-A ] after
+
+Optimizing Sequence 190
+[ 1-G 2-U 13-U 31-G 32-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-G 32-A 76-U 79-A ] after
+
+Optimizing Sequence 191
+[ 1-G 2-C 13-U 32-C 34-A 76-U 79-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 34-A 76-U 79-U ] after
+
+Optimizing Sequence 195
+[ 1-G 2-C 13-U 32-C 33-U 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 33-U 76-U 79-G ] after
+
+Optimizing Sequence 200
+[ 1-A 2-C 13-U 31-G 32-A 76-U 79-G ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-G 32-A 76-U 79-G ] after
+
+Optimizing Sequence 207
+[ 1-G 2-C 13-U 32-C 35-A 76-U 79-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 35-A 76-U 79-U ] after
+
+Optimizing Sequence 219
+[ 1-G 2-C 13-U 31-G 33-G 35-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 33-G 35-A 79-G ] after
+
+Optimizing Sequence 224
+[ 1-G 2-C 13-U 32-U 34-A 35-G 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-U 34-A 35-G 76-U ] after
+
+Optimizing Sequence 227
+[ 1-G 2-C 13-U 32-A 34-A 35-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-A 34-A 35-U 79-A ] after
+
+Optimizing Sequence 232
+[ 1-G 2-U 13-U 31-G 34-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-G 34-U 76-U 79-A ] after
+
+Optimizing Sequence 240
+[ 1-G 2-U 13-U 32-A 35-A 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 32-A 35-A 76-U 79-G ] after
+
+Optimizing Sequence 250
+[ 1-U 2-C 13-U 33-G 35-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 33-G 35-A 76-U 79-A ] after
+
+Optimizing Sequence 260
+[ 1-U 2-C 13-U 31-G 34-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 31-G 34-U 76-U 79-A ] after
+
+Optimizing Sequence 269
+[ 1-G 2-C 13-U 33-G 35-A 76-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-G 35-A 76-G 79-A ] after
+
+Optimizing Sequence 272
+[ 1-G 2-C 13-U 32-C 33-U 34-A 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 33-U 34-A 79-G ] after
+
+Optimizing Sequence 277
+[ 2-C 13-U 32-U 33-U 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 32-U 33-U 34-G 76-U 79-G ] after
+
+Optimizing Sequence 282
+[ 2-C 13-U 31-G 32-U 34-G 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-G 32-U 34-G 76-U 79-A ] after
+
+Optimizing Sequence 296
+[ 2-C 13-U 31-G 32-U 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 31-G 32-U 34-G 76-U 79-G ] after
+
+Optimizing Sequence 303
+[ 1-G 2-C 13-U 32-C 33-A 76-U 79-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-C 33-A 76-U 79-U ] after
+
+Optimizing Sequence 311
+[ 1-G 2-C 13-U 33-A 34-U 76-G 79-G ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-A 34-U 76-G 79-G ] after
+
+Optimizing Sequence 320
+[ 1-G 2-C 13-U 33-U 34-G 35-G 79-A ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 33-U 34-G 35-G 79-A ] after
+
+Optimizing Sequence 327
+[ 2-C 13-U 32-A 33-U 34-G 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 32-A 33-U 34-G 76-U 79-A ] after
+
+Optimizing Sequence 342
+[ 2-C 13-U 31-G 32-A 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 2-C 13-U 31-G 32-A 34-G 76-U 79-G ] after
+
+Optimizing Sequence 347
+[ 2-C 13-U 33-U 34-G 35-G 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 33-U 34-G 35-G 76-U 79-A ] after
+
+Optimizing Sequence 359
+[ 1-U 2-C 13-U 31-U 32-U 35-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 31-U 32-U 35-A 76-U 79-A ] after
+
+Optimizing Sequence 366
+[ 1-G 2-U 13-U 31-G 32-A 33-U 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-G 32-A 33-U 76-U 79-G ] after
+
+Optimizing Sequence 388
+[ 1-G 2-C 13-U 31-G 32-U 33-G 34-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 32-U 33-G 34-A 76-U ] after
+
+Optimizing Sequence 392
+[ 1-G 2-U 13-U 32-U 34-A 35-U 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 32-U 34-A 35-U 76-U 79-G ] after
+
+Optimizing Sequence 397
+[ 1-G 2-C 13-U 31-U 32-U 33-A 35-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-U 32-U 33-A 35-A 76-U ] after
+
+Optimizing Sequence 403
+[ 1-G 2-U 13-U 32-A 34-A 35-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 32-A 34-A 35-U 76-U 79-A ] after
+
+Optimizing Sequence 430
+[ 1-U 2-C 13-U 33-U 34-A 35-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-U 2-C 13-U 33-U 34-A 35-U 76-U 79-A ] after
+
+Optimizing Sequence 444
+[ 1-A 2-C 13-U 31-G 32-U 34-U 76-U 79-G ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-G 32-U 34-U 76-U 79-G ] after
+
+Optimizing Sequence 471
+[ 1-G 2-A 13-C 32-A 33-U 34-A 35-A 79-A ] before
+remove 0 point mutations
+[ 1-G 2-A 13-C 32-A 33-U 34-A 35-A 79-A ] after
+
+Optimizing Sequence 492
+[ 1-G 2-U 13-U 31-U 32-A 33-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-U 32-A 33-U 76-U 79-A ] after
+
+Optimizing Sequence 498
+[ 1-G 2-C 13-U 31-G 32-C 33-U 35-A 76-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 31-G 32-C 33-U 35-A 76-U ] after
+
+Optimizing Sequence 562
+[ 2-C 13-U 31-U 32-U 33-U 34-G 76-U 79-A ] before
+remove 0 point mutations
+[ 2-C 13-U 31-U 32-U 33-U 34-G 76-U 79-A ] after
+
+Optimizing Sequence 611
+[ 1-A 2-C 13-U 31-U 32-U 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-U 32-U 34-G 76-U 79-G ] after
+
+Optimizing Sequence 638
+[ 1-G 2-U 13-U 32-C 33-G 34-G 76-U 79-G ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 32-C 33-G 34-G 76-U 79-G ] after
+
+Optimizing Sequence 643
+[ 1-G 2-C 13-U 32-U 34-U 35-A 76-U 79-U ] before
+remove 0 point mutations
+[ 1-G 2-C 13-U 32-U 34-U 35-A 76-U 79-U ] after
+
+Optimizing Sequence 673
+[ 1-G 2-U 13-U 33-A 34-A 35-U 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 33-A 34-A 35-U 76-U 79-A ] after
+
+Optimizing Sequence 812
+[ 1-A 2-C 13-U 31-G 32-U 33-A 34-A 35-G 79-A ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-G 32-U 33-A 34-A 35-G 79-A ] after
+
+Optimizing Sequence 826
+[ 1-G 2-U 13-U 31-U 32-A 34-U 35-A 76-U 79-A ] before
+remove 0 point mutations
+[ 1-G 2-U 13-U 31-U 32-A 34-U 35-A 76-U 79-A ] after
+
+Optimizing Sequence 948
+[ 1-A 2-C 13-U 31-U 32-C 34-A 35-A 76-U 79-G ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-U 32-C 34-A 35-A 76-U 79-G ] after
+
+Optimizing Sequence 953
+[ 1-A 2-C 13-U 31-G 32-C 33-U 34-A 76-U 79-G ] before
+remove 0 point mutations
+[ 1-A 2-C 13-U 31-G 32-C 33-U 34-A 76-U 79-G ] after
+
+unique patterns: --b
+['1-G', '13-U', '2-C', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '31-G', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '79-A'] b
+['1-G', '13-U', '2-C', '32-U', '79-A'] b
+['13-U', '2-C', '32-C', '33-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-A', '76-U'] b
+['13-U', '2-C', '33-A', '34-G', '79-A'] b
+['13-U', '2-C', '32-C', '76-U', '79-A'] b
+['13-U', '2-C', '33-G', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '32-U', '79-G'] b
+['13-U', '2-C', '32-C', '33-A', '34-A', '79-A'] b
+['13-U', '2-C', '31-G', '32-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '33-G', '34-A', '79-G'] b
+['1-G', '13-U', '2-C', '32-A', '76-G', '79-G'] b
+['13-U', '2-C', '31-U', '32-A', '76-U', '79-A'] b
+['13-U', '2-C', '32-A', '34-G', '35-G', '79-A'] b
+['1-G', '13-U', '2-C', '33-A', '34-A', '79-G'] b
+['13-U', '2-C', '33-A', '34-A', '76-U', '79-A'] b
+['1-G', '13-C', '2-A', '32-U', '35-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-A', '34-U', '79-A'] b
+['1-G', '13-U', '2-C', '31-G', '76-U', '79-G'] b
+['13-U', '2-A', '32-C', '33-A', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '33-A', '34-G', '76-U'] b
+['13-U', '2-A', '32-C', '33-G', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '31-U', '32-C', '79-G'] b
+['13-U', '2-C', '31-U', '32-C', '34-U', '79-A'] b
+['1-G', '13-U', '2-C', '31-G', '32-A', '79-G'] b
+['1-G', '13-U', '2-C', '33-G', '34-G', '76-U'] b
+['1-G', '13-U', '2-C', '32-U', '34-G', '76-U'] b
+['13-U', '2-C', '33-A', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-A', '33-U', '79-A'] b
+['1-U', '13-U', '2-C', '32-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '31-U', '32-C', '76-U'] b
+['1-G', '13-U', '2-U', '33-G', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '33-G', '34-A', '79-A'] b
+['1-G', '13-U', '2-C', '32-A', '34-G', '79-G'] b
+['1-G', '13-U', '2-C', '33-A', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-C', '34-G', '76-U'] b
+['1-G', '13-U', '2-C', '33-A', '34-G', '79-G'] b
+['1-G', '13-U', '2-C', '31-G', '76-U', '79-U'] b
+['1-G', '13-U', '2-C', '33-G', '34-G', '79-G'] b
+['1-G', '13-U', '2-U', '33-A', '34-G', '79-A'] b
+['13-U', '2-C', '31-U', '32-C', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '76-G', '79-G'] b
+['1-G', '13-U', '2-C', '32-A', '35-A', '79-A'] b
+['1-A', '13-U', '2-C', '32-U', '76-U', '79-A'] b
+['13-U', '2-C', '33-G', '34-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-A', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '33-A', '34-A', '79-A'] b
+['13-U', '2-C', '32-A', '35-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '33-A', '34-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-A', '76-G', '79-A'] b
+['1-G', '13-U', '2-C', '31-G', '32-C', '79-G'] b
+['13-U', '2-C', '31-U', '32-C', '35-A', '79-A'] b
+['13-U', '2-C', '32-A', '35-U', '76-U', '79-A'] b
+['1-A', '13-U', '2-C', '32-A', '34-G', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '33-U', '34-G', '35-G', '76-U'] b
+['13-U', '2-C', '32-A', '33-U', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-C', '34-A', '35-A', '76-U'] b
+['13-U', '2-C', '32-C', '33-U', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-U', '32-C', '34-G', '76-U', '79-A'] b
+['1-A', '13-U', '2-U', '32-C', '33-A', '34-G', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '33-U', '34-G', '79-G'] b
+['13-U', '2-C', '32-C', '33-G', '34-A', '35-G', '79-A'] b
+['1-G', '13-U', '2-C', '33-A', '34-U', '35-A', '76-U'] b
+['1-G', '13-U', '2-C', '33-G', '34-A', '35-G', '76-U'] b
+['1-A', '13-U', '2-C', '31-G', '33-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '33-A', '34-A', '76-U'] b
+['1-G', '13-U', '2-C', '32-A', '34-A', '35-A', '79-G'] b
+['1-G', '13-U', '2-U', '31-G', '32-C', '76-U', '79-A'] b
+['1-U', '13-U', '2-C', '31-G', '32-U', '76-U', '79-A'] b
+['1-G', '13-U', '2-U', '31-G', '35-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-U', '31-G', '32-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '34-A', '76-U', '79-U'] b
+['1-G', '13-U', '2-C', '32-C', '33-U', '76-U', '79-G'] b
+['1-A', '13-U', '2-C', '31-G', '32-A', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-C', '35-A', '76-U', '79-U'] b
+['1-G', '13-U', '2-C', '31-G', '33-G', '35-A', '79-G'] b
+['1-G', '13-U', '2-C', '32-U', '34-A', '35-G', '76-U'] b
+['1-G', '13-U', '2-C', '32-A', '34-A', '35-U', '79-A'] b
+['1-G', '13-U', '2-U', '31-G', '34-U', '76-U', '79-A'] b
+['1-G', '13-U', '2-U', '32-A', '35-A', '76-U', '79-G'] b
+['1-U', '13-U', '2-C', '33-G', '35-A', '76-U', '79-A'] b
+['1-U', '13-U', '2-C', '31-G', '34-U', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '33-G', '35-A', '76-G', '79-A'] b
+['1-G', '13-U', '2-C', '32-C', '33-U', '34-A', '79-G'] b
+['13-U', '2-C', '32-U', '33-U', '34-G', '76-U', '79-G'] b
+['13-U', '2-C', '31-G', '32-U', '34-G', '76-U', '79-A'] b
+['13-U', '2-C', '31-G', '32-U', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-C', '33-A', '76-U', '79-U'] b
+['1-G', '13-U', '2-C', '33-A', '34-U', '76-G', '79-G'] b
+['1-G', '13-U', '2-C', '33-U', '34-G', '35-G', '79-A'] b
+['13-U', '2-C', '32-A', '33-U', '34-G', '76-U', '79-A'] b
+['13-U', '2-C', '31-G', '32-A', '34-G', '76-U', '79-G'] b
+['13-U', '2-C', '33-U', '34-G', '35-G', '76-U', '79-A'] b
+['1-U', '13-U', '2-C', '31-U', '32-U', '35-A', '76-U', '79-A'] b
+['1-G', '13-U', '2-U', '31-G', '32-A', '33-U', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '31-G', '32-U', '33-G', '34-A', '76-U'] b
+['1-G', '13-U', '2-U', '32-U', '34-A', '35-U', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '31-U', '32-U', '33-A', '35-A', '76-U'] b
+['1-G', '13-U', '2-U', '32-A', '34-A', '35-U', '76-U', '79-A'] b
+['1-U', '13-U', '2-C', '33-U', '34-A', '35-U', '76-U', '79-A'] b
+['1-A', '13-U', '2-C', '31-G', '32-U', '34-U', '76-U', '79-G'] b
+['1-G', '13-C', '2-A', '32-A', '33-U', '34-A', '35-A', '79-A'] b
+['1-G', '13-U', '2-U', '31-U', '32-A', '33-U', '76-U', '79-A'] b
+['1-G', '13-U', '2-C', '31-G', '32-C', '33-U', '35-A', '76-U'] b
+['13-U', '2-C', '31-U', '32-U', '33-U', '34-G', '76-U', '79-A'] b
+['1-A', '13-U', '2-C', '31-U', '32-U', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-U', '32-C', '33-G', '34-G', '76-U', '79-G'] b
+['1-G', '13-U', '2-C', '32-U', '34-U', '35-A', '76-U', '79-U'] b
+['1-G', '13-U', '2-U', '33-A', '34-A', '35-U', '76-U', '79-A'] b
+['1-A', '13-U', '2-C', '31-G', '32-U', '33-A', '34-A', '35-G', '79-A'] b
+['1-G', '13-U', '2-U', '31-U', '32-A', '34-U', '35-A', '76-U', '79-A'] b
+['1-A', '13-U', '2-C', '31-U', '32-C', '34-A', '35-A', '76-U', '79-G'] b
+['1-A', '13-U', '2-C', '31-G', '32-C', '33-U', '34-A', '76-U', '79-G'] b

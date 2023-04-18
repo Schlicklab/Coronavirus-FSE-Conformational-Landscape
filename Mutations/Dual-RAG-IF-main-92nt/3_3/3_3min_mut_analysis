@@ -1,0 +1,314 @@
+
+Optimizing Sequence 1
+[ 15-C 75-G 76-U ] before
+remove 0 point mutations
+[ 15-C 75-G 76-U ] after
+
+Optimizing Sequence 2
+[ 74-A 75-G 76-G 79-U ] before
+remove 0 point mutations
+[ 74-A 75-G 76-G 79-U ] after
+
+Optimizing Sequence 3
+[ 74-C 75-A 76-G 79-U ] before
+remove 0 point mutations
+[ 74-C 75-A 76-G 79-U ] after
+
+Optimizing Sequence 4
+[ 75-G 76-U 78-C 79-U ] before
+remove 0 point mutations
+[ 75-G 76-U 78-C 79-U ] after
+
+Optimizing Sequence 5
+[ 75-G 76-U 77-A 79-U ] before
+remove 0 point mutations
+[ 75-G 76-U 77-A 79-U ] after
+
+Optimizing Sequence 6
+[ 75-G 76-U 77-A 78-C ] before
+remove 0 point mutations
+[ 75-G 76-U 77-A 78-C ] after
+
+Optimizing Sequence 7
+[ 75-G 76-U 77-A 78-U ] before
+remove 0 point mutations
+[ 75-G 76-U 77-A 78-U ] after
+
+Optimizing Sequence 8
+[ 75-G 76-U 77-G 79-U ] before
+remove 0 point mutations
+[ 75-G 76-U 77-G 79-U ] after
+
+Optimizing Sequence 9
+[ 15-C 74-C 75-G 76-G ] before
+remove 0 point mutations
+[ 15-C 74-C 75-G 76-G ] after
+
+Optimizing Sequence 10
+[ 75-G 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 75-G 77-A 78-C 79-U ] after
+
+Optimizing Sequence 11
+[ 75-G 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 75-G 77-G 78-C 79-U ] after
+
+Optimizing Sequence 12
+[ 75-G 76-U 78-U 79-U ] before
+remove 0 point mutations
+[ 75-G 76-U 78-U 79-U ] after
+
+Optimizing Sequence 13
+[ 15-A 74-C 75-A 76-G ] before
+remove 0 point mutations
+[ 15-A 74-C 75-A 76-G ] after
+
+Optimizing Sequence 14
+[ 76-U 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 76-U 77-A 78-C 79-U ] after
+
+Optimizing Sequence 19
+[ 15-C 75-C 77-A 78-C 79-G ] before
+remove 1 point mutations
+[ 15-C 75-C 77-A 79-G ] after
+
+Optimizing Sequence 26
+[ 15-A 74-C 75-G 76-G 79-U ] before
+remove 0 point mutations
+[ 15-A 74-C 75-G 76-G 79-U ] after
+
+Optimizing Sequence 32
+[ 15-C 74-C 75-A 76-G 77-A ] before
+remove 1 point mutations
+[ 15-C 74-C 75-A 76-G ] after
+
+Optimizing Sequence 35
+[ 15-C 75-C 77-A 78-U 79-A ] before
+remove 1 point mutations
+[ 15-C 75-C 77-A 79-A ] after
+
+Optimizing Sequence 37
+[ 15-A 75-G 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 15-A 75-G 77-A 78-U 79-U ] after
+
+Optimizing Sequence 39
+[ 15-C 75-G 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 15-C 75-G 77-A 78-U 79-U ] after
+
+Optimizing Sequence 40
+[ 74-A 75-G 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 74-A 75-G 77-A 78-U 79-U ] after
+
+Optimizing Sequence 44
+[ 15-C 76-C 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-C 76-C 77-G 78-C 79-U ] after
+
+Optimizing Sequence 48
+[ 15-A 76-U 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-A 76-U 77-G 78-C 79-U ] after
+
+Optimizing Sequence 52
+[ 15-C 76-C 77-A 78-C 79-G ] before
+remove 0 point mutations
+[ 15-C 76-C 77-A 78-C 79-G ] after
+
+Optimizing Sequence 64
+[ 15-C 75-C 76-G 77-C 79-A ] before
+remove 0 point mutations
+[ 15-C 75-C 76-G 77-C 79-A ] after
+
+Optimizing Sequence 73
+[ 15-C 75-G 76-G 77-A 78-C 79-G ] before
+remove 0 point mutations
+[ 15-C 75-G 76-G 77-A 78-C 79-G ] after
+
+Optimizing Sequence 86
+[ 15-A 74-A 75-G 76-U 78-U 79-A ] before
+remove 0 point mutations
+[ 15-A 74-A 75-G 76-U 78-U 79-A ] after
+
+Optimizing Sequence 107
+[ 15-C 74-A 76-U 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-C 74-A 76-U 77-G 78-C 79-U ] after
+
+Optimizing Sequence 111
+[ 15-C 75-G 76-G 77-A 78-C 79-A ] before
+remove 0 point mutations
+[ 15-C 75-G 76-G 77-A 78-C 79-A ] after
+
+Optimizing Sequence 112
+[ 15-A 74-C 76-C 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-A 74-C 76-C 77-G 78-C 79-U ] after
+
+Optimizing Sequence 114
+[ 15-A 74-A 76-U 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 15-A 74-A 76-U 77-A 78-U 79-U ] after
+
+Optimizing Sequence 115
+[ 15-A 74-A 76-U 77-A 78-C 79-A ] before
+remove 0 point mutations
+[ 15-A 74-A 76-U 77-A 78-C 79-A ] after
+
+Optimizing Sequence 123
+[ 15-C 75-G 76-C 77-A 78-C 79-A ] before
+remove 1 point mutations
+[ 15-C 76-C 77-A 78-C 79-A ] after
+
+Optimizing Sequence 126
+[ 15-C 74-U 76-G 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 15-C 74-U 76-G 77-A 78-C 79-U ] after
+
+Optimizing Sequence 129
+[ 15-C 74-A 75-G 76-C 77-G 79-U ] before
+remove 0 point mutations
+[ 15-C 74-A 75-G 76-C 77-G 79-U ] after
+
+Optimizing Sequence 133
+[ 15-A 74-C 76-G 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 15-A 74-C 76-G 77-A 78-C 79-U ] after
+
+Optimizing Sequence 141
+[ 15-C 74-A 76-U 77-A 78-C 79-A ] before
+remove 0 point mutations
+[ 15-C 74-A 76-U 77-A 78-C 79-A ] after
+
+Optimizing Sequence 142
+[ 15-C 75-A 76-G 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-C 75-A 76-G 77-G 78-C 79-U ] after
+
+Optimizing Sequence 143
+[ 15-A 74-A 76-U 77-A 78-C 79-G ] before
+remove 0 point mutations
+[ 15-A 74-A 76-U 77-A 78-C 79-G ] after
+
+Optimizing Sequence 148
+[ 74-C 75-C 76-G 77-G 78-C 79-U ] before
+remove 1 point mutations
+[ 74-C 75-C 77-G 78-C 79-U ] after
+
+Optimizing Sequence 154
+[ 15-A 75-A 76-G 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-A 75-A 76-G 77-G 78-C 79-U ] after
+
+Optimizing Sequence 163
+[ 15-A 74-A 75-G 76-U 78-C 79-A ] before
+remove 0 point mutations
+[ 15-A 74-A 75-G 76-U 78-C 79-A ] after
+
+Optimizing Sequence 165
+[ 74-C 75-G 76-G 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 74-C 75-G 76-G 77-A 78-U 79-U ] after
+
+Optimizing Sequence 167
+[ 15-A 74-U 76-G 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 15-A 74-U 76-G 77-A 78-C 79-U ] after
+
+Optimizing Sequence 172
+[ 74-C 75-C 76-G 77-A 78-C 79-U ] before
+remove 0 point mutations
+[ 74-C 75-C 76-G 77-A 78-C 79-U ] after
+
+Optimizing Sequence 173
+[ 15-C 74-A 76-U 77-A 78-U 79-U ] before
+remove 0 point mutations
+[ 15-C 74-A 76-U 77-A 78-U 79-U ] after
+
+Optimizing Sequence 174
+[ 15-C 74-A 76-U 77-A 78-C 79-G ] before
+remove 0 point mutations
+[ 15-C 74-A 76-U 77-A 78-C 79-G ] after
+
+Optimizing Sequence 183
+[ 15-C 74-A 75-C 76-G 77-G 78-C 79-U ] before
+remove 1 point mutations
+[ 74-A 75-C 76-G 77-G 78-C 79-U ] after
+
+Optimizing Sequence 193
+[ 15-A 74-A 75-G 76-U 77-G 78-C 79-G ] before
+remove 0 point mutations
+[ 15-A 74-A 75-G 76-U 77-G 78-C 79-G ] after
+
+Optimizing Sequence 218
+[ 15-C 74-C 75-A 76-U 77-G 78-C 79-U ] before
+remove 0 point mutations
+[ 15-C 74-C 75-A 76-U 77-G 78-C 79-U ] after
+
+Optimizing Sequence 230
+[ 15-A 74-A 75-G 76-G 77-A 78-C 79-A ] before
+remove 0 point mutations
+[ 15-A 74-A 75-G 76-G 77-A 78-C 79-A ] after
+
+Optimizing Sequence 250
+[ 15-A 74-A 75-G 76-G 77-A 78-C 79-G ] before
+remove 0 point mutations
+[ 15-A 74-A 75-G 76-G 77-A 78-C 79-G ] after
+
+unique patterns: --b
+['15-C', '75-G', '76-U'] b
+['74-A', '75-G', '76-G', '79-U'] b
+['74-C', '75-A', '76-G', '79-U'] b
+['75-G', '76-U', '78-C', '79-U'] b
+['75-G', '76-U', '77-A', '79-U'] b
+['75-G', '76-U', '77-A', '78-C'] b
+['75-G', '76-U', '77-A', '78-U'] b
+['75-G', '76-U', '77-G', '79-U'] b
+['15-C', '74-C', '75-G', '76-G'] b
+['75-G', '77-A', '78-C', '79-U'] b
+['75-G', '77-G', '78-C', '79-U'] b
+['75-G', '76-U', '78-U', '79-U'] b
+['15-A', '74-C', '75-A', '76-G'] b
+['76-U', '77-A', '78-C', '79-U'] b
+['15-C', '75-C', '77-A', '79-G'] b
+['15-A', '74-C', '75-G', '76-G', '79-U'] b
+['15-C', '74-C', '75-A', '76-G'] b
+['15-C', '75-C', '77-A', '79-A'] b
+['15-A', '75-G', '77-A', '78-U', '79-U'] b
+['15-C', '75-G', '77-A', '78-U', '79-U'] b
+['74-A', '75-G', '77-A', '78-U', '79-U'] b
+['15-C', '76-C', '77-G', '78-C', '79-U'] b
+['15-A', '76-U', '77-G', '78-C', '79-U'] b
+['15-C', '76-C', '77-A', '78-C', '79-G'] b
+['15-C', '75-C', '76-G', '77-C', '79-A'] b
+['15-C', '75-G', '76-G', '77-A', '78-C', '79-G'] b
+['15-A', '74-A', '75-G', '76-U', '78-U', '79-A'] b
+['15-C', '74-A', '76-U', '77-G', '78-C', '79-U'] b
+['15-C', '75-G', '76-G', '77-A', '78-C', '79-A'] b
+['15-A', '74-C', '76-C', '77-G', '78-C', '79-U'] b
+['15-A', '74-A', '76-U', '77-A', '78-U', '79-U'] b
+['15-A', '74-A', '76-U', '77-A', '78-C', '79-A'] b
+['15-C', '76-C', '77-A', '78-C', '79-A'] b
+['15-C', '74-U', '76-G', '77-A', '78-C', '79-U'] b
+['15-C', '74-A', '75-G', '76-C', '77-G', '79-U'] b
+['15-A', '74-C', '76-G', '77-A', '78-C', '79-U'] b
+['15-C', '74-A', '76-U', '77-A', '78-C', '79-A'] b
+['15-C', '75-A', '76-G', '77-G', '78-C', '79-U'] b
+['15-A', '74-A', '76-U', '77-A', '78-C', '79-G'] b
+['74-C', '75-C', '77-G', '78-C', '79-U'] b
+['15-A', '75-A', '76-G', '77-G', '78-C', '79-U'] b
+['15-A', '74-A', '75-G', '76-U', '78-C', '79-A'] b
+['74-C', '75-G', '76-G', '77-A', '78-U', '79-U'] b
+['15-A', '74-U', '76-G', '77-A', '78-C', '79-U'] b
+['74-C', '75-C', '76-G', '77-A', '78-C', '79-U'] b
+['15-C', '74-A', '76-U', '77-A', '78-U', '79-U'] b
+['15-C', '74-A', '76-U', '77-A', '78-C', '79-G'] b
+['74-A', '75-C', '76-G', '77-G', '78-C', '79-U'] b
+['15-A', '74-A', '75-G', '76-U', '77-G', '78-C', '79-G'] b
+['15-C', '74-C', '75-A', '76-U', '77-G', '78-C', '79-U'] b
+['15-A', '74-A', '75-G', '76-G', '77-A', '78-C', '79-A'] b
+['15-A', '74-A', '75-G', '76-G', '77-A', '78-C', '79-G'] b

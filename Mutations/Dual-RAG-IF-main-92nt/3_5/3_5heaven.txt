@@ -1,0 +1,2108 @@
+Inquiry sequence:
+NNUUUUUAAACGNGUUUGCGGUGUAAGUGCNNNNNGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUNUANAGGGCUUUUGACA
+Target vertex order:
+122331
+Template sequence:
+CGUUUUUAAACGGGUUUGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUACAGGGCUUUUGACA
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GAUUUUUAAACGCGUUUGCGGUGUAAGUGCAUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+.....(((((.((.(((.(((((((((.(((...))))))))))))((((((((((.........))).)))))))..))).)).)))))..
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAAAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGUAAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+.(((((((.((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))).))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCACAUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAAUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCUACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUGCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.(((((((((((((((((((((...))).))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUAAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAACUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GAUUUUUAAACGCGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+.....(((((.((.(((.(((((((((.((.....)))))))))))((((((((((.........))).)))))))..))).)).)))))..
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACGUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUGAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUGCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+((((((((((((((((((((((((((((((...))).))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACGAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUAUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCUGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGUGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUGAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGCAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAACUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUACCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGACAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAAUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUACAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGAACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACAAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+(((((.((...((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))).)).)))))..........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCACGUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCACCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+(((((.((...((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))).)).)))))..........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((..(....)..))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GUUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGGGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUUCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCGACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUGCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCUCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+UCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAGAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAGGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAGAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCUAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAGAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCUUGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCAACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCACUACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACACGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAUAGGGCUUUUGACA 12/12
+(((((.(((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).))))))))).)))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+(((((((((((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))))))))))))........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCGCCAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+ACUUUUUAAACGUGUUUGCGGUGUAAGUGCAUCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCAACCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+GCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACUCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUGUAAAGGGCUUUUGACA 12/12
+((((((((.((((((((((((((((((.(((...)))))))))))))).))))).((((.((....)).)))))).))))))))........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGAUCAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+>
+CCUUUUUAAACGUGUUUGCGGUGUAAGUGCGACAAGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUUUAAAGGGCUUUUGACA 12/12
+.((((((((((((((((((((((((((.((.....))))))))))))).))))).((((.((....)).)))))))))))))).........
+
+
+Number of chromosomes in heaven: 525
